@@ -22,3 +22,6 @@ HealthSync is a healthcare management system developed as a group project for BC
 ## Technologies Used
 - Java
 - Object-Oriented Programming (OOP)
+
+## Database
+The database script is provided in `healthsync.sql`.
